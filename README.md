@@ -1,5 +1,5 @@
 # Hi there 👋, My Name is Muhammed Aashiq 
-🏁 I’m a self-taught MERN full stack developer<br>🤝 I’m looking for a good IT job as a DEVELOPER<br>🌱 💬 Ask about me in LinkedIn<br>⚡ Fun fact I don't have a Degree
+🏁 I’m a self-taught MERN full stack developer<br>🤝 I’m looking for a good IT job as a DEVELOPER<br> 💬 Ask about me in LinkedIn<br>⚡ Fun fact I don't have a Degree
 
 
 ## 🌐 Socials:
